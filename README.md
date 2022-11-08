@@ -1,1 +1,3 @@
 # moonlander
+
+dependency: javafx-sdk 
